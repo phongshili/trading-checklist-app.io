@@ -2,7 +2,7 @@
   "name": "trading-setup-checklist",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/phongshili/trading-checklist-app.io.git",
+  "homepage": "https://phongshili.github.io/trading-checklist-app.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
